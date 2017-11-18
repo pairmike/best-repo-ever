@@ -2,4 +2,4 @@
 
 ### I like markdown language
 __it is good__
-added new-branch-1
+this is an new comment. combined comment, added new-branch-1
